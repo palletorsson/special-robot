@@ -24,3 +24,6 @@ Noah Inressen:
 - Text baserat adventure spel. Unity 
 - VR spel. 
 - Branching storyline upplevelse/berättelse. 
+
+
+Calle – jobba med någon kul api, antingen i JavaScript eller titta på python
