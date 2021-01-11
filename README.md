@@ -34,4 +34,4 @@ Nea - Unity. Spel / upplevelse. Gillar ex idéen bakom Jason Rohrer Passage.
 # Tomas - Vill lära mig mer om JavaScript. Vill också fortsätta med Unity och koda i C#, men har redan jobbat ganska mycket med det på sistone.
 >>>>>>> Stashed changes
 
-Clara - utforska html/css med javascript - förena dom - eller bara fokusera på javascript. unity vore också kul, tex bygga upp en miljö med hjälp av assets
+# Elsa - Unity, bygga interaktiva miljöer/spel för AR/VR. Eller ett enkelt pusselspel, 2D eller 3D
