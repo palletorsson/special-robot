@@ -31,5 +31,5 @@ Calle – jobba med någon kul api, antingen i JavaScript eller titta på python
 
 Nea - Unity. Spel / upplevelse. Gillar ex idéen bakom Jason Rohrer Passage. 
 =======
-# Tomas - Vill lära mig mer om JavaScript. Vill också fortsätta med Unity, men har redan jobbat ganska mycket med det på sistone.
+# Tomas - Vill lära mig mer om JavaScript. Vill också fortsätta med Unity och koda i C#, men har redan jobbat ganska mycket med det på sistone.
 >>>>>>> Stashed changes
