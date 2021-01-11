@@ -33,3 +33,6 @@ Nea - Unity. Spel / upplevelse. Gillar ex idéen bakom Jason Rohrer Passage.
 =======
 # Tomas - Vill lära mig mer om JavaScript. Vill också fortsätta med Unity och koda i C#, men har redan jobbat ganska mycket med det på sistone.
 >>>>>>> Stashed changes
+
+
+Josefin, är intresserad av att lära mig mer Javascript, men till detta projekt tror jag att det skulle vara kul att fortsätta med Unity. Ex ngn typ av vr-upplevelse eller annat typ av spel/upplevelse.
