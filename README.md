@@ -27,3 +27,5 @@ Noah Inressen:
 
 
 Calle – jobba med någon kul api, antingen i JavaScript eller titta på python
+
+Nea - Unity. Spel / upplevelse. Gillar ex idéen bakom Jason Rohrer Passage. 
