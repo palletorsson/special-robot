@@ -37,3 +37,5 @@ Josefin, är intresserad av att lära mig mer Javascript, men till detta projekt
 # Elsa - Unity, bygga interaktiva miljöer/spel för AR/VR. Eller ett enkelt pusselspel, 2D eller 3D
 
 Clara - utforska html/css med javascript - förena dom - eller bara fokusera på javascript. ev bygga webbläsare/app/något interaktivt. unity vore också kul, tex bygga upp en miljö med hjälp av assets
+
+Petter- jag skulle vilja Unity 3d grafik o kanske scannade objekt
