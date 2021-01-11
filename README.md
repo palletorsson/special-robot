@@ -12,9 +12,10 @@ Gabriel
 
 * Unity 1
 
-* Unity 2
+* Unity 2 ** Passage inspirerat spel 
+Nea 
+Noah 
 
-** Passage 3D
 
 
 Alex - JavaScript - Node.js // Lära sig node.js basics och skapa en super enkel server.
