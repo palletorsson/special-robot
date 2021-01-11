@@ -10,9 +10,9 @@ Grupper
 1. Tomas
 
 
-* Unity 1 _ VR Scanning, inventory, pickup game. 
+* Unity 1 - VR Scanning, inventory, pickup game. 
 
-* Unity 2 ** Passage-inspirerat spel 
+* Unity 2 - Passage-inspirerat spel 
 1. Nea 
 1. Noah 
 
