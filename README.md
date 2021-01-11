@@ -2,19 +2,19 @@
 
 Grupper
 
-* JavaScript 1 - node ... släck tänd ljusa 
+* JavaScript 1 - node sockets express databas ... släck tänd ljusa 
 
 1. Alex
 1. Clara 
-* * Gabriel
-* * Tomas
+1. Gabriel
+1. Tomas
 
 
 * Unity 1 _ VR Scanning, inventory, pickup game. 
 
-* Unity 2 ** Passage inspirerat spel 
-Nea 
-Noah 
+* Unity 2 ** Passage-inspirerat spel 
+1. Nea 
+1. Noah 
 
 
 
