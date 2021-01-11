@@ -2,7 +2,8 @@
 
 Grupper
 
-* JavaScript 1 - node ... släck tänd ljusabr
+* JavaScript 1 - node ... släck tänd ljusa 
+
 Alex
 Clara 
 Gabriel
