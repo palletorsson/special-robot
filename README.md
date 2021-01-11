@@ -4,10 +4,10 @@ Grupper
 
 * JavaScript 1 - node ... släck tänd ljusa 
 
-** Alex
-** Clara 
-** Gabriel
-** Tomas
+* * Alex
+* * Clara 
+* * Gabriel
+* * Tomas
 
 
 * Unity 1 _ VR Scanning, 
