@@ -4,14 +4,13 @@ Grupper
 
 * JavaScript 1 - node ... släck tänd ljusa 
 
-Alex
-Clara 
-Gabriel
-Tomas
+** Alex
+** Clara 
+** Gabriel
+** Tomas
 
-* JavaScript 2
 
-* Unity 1
+* Unity 1 _ VR Scanning, 
 
 * Unity 2 ** Passage inspirerat spel 
 Nea 
