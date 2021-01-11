@@ -1,4 +1,4 @@
-# Namn, Plattformat och språk
+# Namn, Plattformar och språk
 
 # Noah was Here.
 
