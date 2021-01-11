@@ -1,4 +1,4 @@
-# special-robot
+# Namn, Plattformat och språk
 
 # Noah was Here.
 
@@ -13,9 +13,6 @@ testar igen
 # Hoho!
 
 read me
-
-
-Alex - JavaScript - Node.js // Lära sig node.js basics och skapa en super enkel server.
 
 
 
