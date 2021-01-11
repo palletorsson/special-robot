@@ -7,3 +7,5 @@
 Hello World!
 
 hej
+
+print "fooBar"
