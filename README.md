@@ -2,7 +2,10 @@
 
 Grupper
 
-* JavaScript 1 - node ... släck tänd ljus
+* JavaScript 1 - node ... släck tänd ljusabr
+Alex
+Clara 
+Gabriel
 
 * JavaScript 2
 
