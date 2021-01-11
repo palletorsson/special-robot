@@ -7,6 +7,7 @@ Grupper
 Alex
 Clara 
 Gabriel
+Tomas
 
 * JavaScript 2
 
