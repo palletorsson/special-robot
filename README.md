@@ -4,13 +4,13 @@ Grupper
 
 * JavaScript 1 - node ... släck tänd ljusa 
 
-* * Alex
-* * Clara 
+1. Alex
+1. Clara 
 * * Gabriel
 * * Tomas
 
 
-* Unity 1 _ VR Scanning, 
+* Unity 1 _ VR Scanning, inventory, pickup game. 
 
 * Unity 2 ** Passage inspirerat spel 
 Nea 
